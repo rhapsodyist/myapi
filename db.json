@@ -1,6 +1,6 @@
 {
     "id": "1",
-    "employee_name": "Emre BAHÇEBAŞI",
-    "employee_salary": "300800",
-    "employee_age": "61"
+    "hisse": "TAVHL",
+    "alış": "15",
+    "satış": "20"
 }

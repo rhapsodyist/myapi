@@ -1,19 +1,14 @@
 {
-    { "EKGYO
-       Portföye Giriş tarihi": 28.04.2021,
-      "Giriş Fiyatı":            1.80,
-      "Hedef Fiyatı":            2.00,
-    
-      "Kar-Zarar Oranı":  %11 
-      },
-      "HALKB":2,
-      " Portföye Giriş tarihi": 28.04.2021,
-      "Giriş Fiyatı":            4.15,
-      "Hedef Fiyatı":            4.50,
-      "Kar-Zarar Oranı":  %8 
-     }
-    
+
+	"EKGYO Portföye Giriş Tarihi ": "28.04 .2021 ",
+	"EKGYO Giriş Fiyatı": " 1.80",
+	"EKGYO Hedef Fiyatı": "2.00",
+	"EKGYO Kar-Zarar Oranı": "% 11",
+
+
+	"HALKB Portföye Giriş tarihi": "28.04.2021",
+	"HALKB Giriş Fiyatı": "4.15",
+	"HALKB Hedef Fiyatı": "4.50",
+	"HALKB Kar-Zarar Oranı": " %8 "
+
 }
-    
-
-
